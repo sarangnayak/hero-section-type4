@@ -7,7 +7,7 @@ cd hero-section-type4
 
 A sophisticated, responsive hero section featuring generative snake animations and smooth GSAP transitions.
 
-![Hero Section Preview](assets/images/preview.png)
+![Hero Section Preview](images/preview.png)
 
 ## ✨ Features
 
