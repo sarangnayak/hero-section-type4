@@ -34,15 +34,6 @@ A sophisticated, responsive hero section featuring generative snake animations a
 ## 🚀 Quick Start
 
 ```bash
-
-👨‍💻 Author
-Sarang Nayak
-
-GitHub: @sarangnayak
-
-LinkedIn: Sarang Nayak
-
-Twitter: @nayaksarangbala
 # Clone the repository
 git clone https://github.com/sarangnayak/hero-section-type4
 
