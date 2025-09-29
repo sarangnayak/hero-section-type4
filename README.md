@@ -1,13 +1,11 @@
 # hero-section-type4
-git clone https://github.com/sarangnayak/hero-section-type4
-cd hero-section-type4
+![Hero Section Preview](images/preview.png)
+
 # Open index.html in browser
 
 # 🚀 Modern Portfolio Hero Section
 
 A sophisticated, responsive hero section featuring generative snake animations and smooth GSAP transitions.
-
-![Hero Section Preview](images/preview.png)
 
 ## ✨ Features
 
