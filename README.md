@@ -1,42 +1,48 @@
 # hero-section-type4
 ![Hero Section Preview](images/preview.png)
 
-# Open index.html in browser
+# 🎯 Hero Section – Type 4
 
-# 🚀 Modern Portfolio Hero Section
+A modern, animated **portfolio hero section** featuring generative background visuals, smooth GSAP transitions, and an interactive canvas effect.
 
-A sophisticated, responsive hero section featuring generative snake animations and smooth GSAP transitions.
+Designed for developers who want a visually striking landing header without using heavy frameworks.
+
+---
+
+## 📌 Overview
+
+This project is a standalone front-end component that can be plugged into a personal portfolio website.  
+It focuses on motion design, user attention capture, and first-impression impact — the exact role a hero section should play.
+
+Instead of static banners, this hero section uses **canvas-based animation + GSAP motion** to create an engaging entry experience.
+
+---
 
 ## ✨ Features
 
-- **Generative Snake Animation** - Dynamic canvas background with interactive elements
-- **GSAP Animations** - Smooth text and element transitions
-- **Accessibility First** - Reduced motion toggle and WCAG compliant
-- **SEO Optimized** - Proper meta tags and structured data
-- **Fully Responsive** - Mobile-first design approach
-- **Performance Focused** - Optimized animations and efficient rendering
+- 🎨 Animated generative background
+- 🐍 Smooth motion transitions powered by GSAP
+- 🖱️ Interactive canvas effects
+- ⚡ Lightweight (no frameworks)
+- 📱 Fully responsive
+- ♿ Accessibility-friendly (supports reduced motion)
+- 🔗 Social media icon links
+- 👤 Developer introduction layout
 
-## 🎯 Live Demo
+---
 
-[View Live Demo](https://sarangnayak.github.io/hero-section-type4/)
+## 🛠️ Tech Stack
 
-## 🛠️ Technologies Used
+| Technology | Purpose |
+|-----------|------|
+| **HTML5** | Structure & layout |
+| **CSS3** | Styling & responsive design |
+| **JavaScript (ES6)** | Interaction & animation control |
+| **Canvas API** | Background animation rendering |
+| **GSAP (GreenSock)** | Smooth animations & transitions |
 
-- HTML5 Canvas
-- CSS3 with CSS Variables
-- Vanilla JavaScript
-- GSAP (GreenSock Animation Platform)
-- Font Awesome Icons
-- Google Fonts (Poppins)
+---
 
-## 🚀 Quick Start
+## 📂 Project Structure
 
-```bash
-# Clone the repository
-git clone https://github.com/sarangnayak/hero-section-type4
 
-# Navigate to project directory
-cd hero-section-type4
-
-# Open in browser
-open index.html
