@@ -79,6 +79,7 @@ No installation required.
 ```
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
 ```
+3.
 Customize:
 
 Name
@@ -91,3 +92,61 @@ Colors
 
 Your portfolio now has an animated hero section.
 
+
+## 🧠 What You Learn From This Project
+
+- Canvas animation fundamentals
+- Coordinating JS animation with UI layout
+- GSAP timeline usage
+- Performance-friendly visual effects
+- Building reusable front-end components
+- Creating attention-grabbing landing sections
+
+
+## 📌 Customization Guide
+
+You can easily modify:
+
+| Element | Where to Change |
+|--------|------|
+| Name & title | `index.html` |
+| Colors | `style.css` variables |
+| Animation speed | `script.js` |
+| Motion intensity | GSAP timeline settings |
+| Social icons | `images/` folder |
+
+
+## ⚙️ Possible Improvements
+
+- Theme switcher (dark/light)
+- Color presets
+- Performance mode for low-end devices
+- Particle density controls
+- React/Vue component version
+- Scroll-triggered animations
+
+
+## 📜 License
+
+Licensed under the **MIT License** — free to use in personal and commercial portfolios.
+
+
+## 👤 Author
+
+**Sarang Nayak**  
+GitHub: https://github.com/sarangnayak
+
+
+## 💡 Why This Project Matters
+
+Most portfolios fail in the first 5 seconds.
+
+Recruiters scan — they do not read.
+
+A strong hero section acts as:
+
+- an identity card
+- a visual hook
+- a credibility signal
+
+This project exists to solve that exact problem.
