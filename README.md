@@ -44,5 +44,50 @@ Instead of static banners, this hero section uses **canvas-based animation + GSA
 ---
 
 ## 📂 Project Structure
+```
+hero-section-type4/
+│
+├── index.html # Hero section markup
+├── style.css # Layout & visual design
+├── script.js # Canvas animation & GSAP logic
+├── images/ # Icons / assets
+└── README.md
+```
 
+---
+
+## 🚀 How to Use
+
+### Option 1 — View Locally
+1. Clone the repository
+   ```
+   git clone https://github.com/sarangnayak/hero-section-type4.git
+   ```
+   
+No installation required.
+
+
+### Option 2 — Use in Your Portfolio
+
+1. Copy the following files into your project:
+- `index.html` (hero section markup)
+- `style.css`
+- `script.js`
+
+2. Add the GSAP CDN before the closing `</body>` tag:
+
+```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+```
+Customize:
+
+Name
+
+Title
+
+Social links
+
+Colors
+
+Your portfolio now has an animated hero section.
 
